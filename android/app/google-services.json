@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461049299837",
+    "project_id": "lesson-3---flutter",
+    "storage_bucket": "lesson-3---flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461049299837:android:423082036c53f38fb04214",
+        "android_client_info": {
+          "package_name": "com.example.lesson3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoI1c5UhkfkztNhghVfRPWs9LUc7EomCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
